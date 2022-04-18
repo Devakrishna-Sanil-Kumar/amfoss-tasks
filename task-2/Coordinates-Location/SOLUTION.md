@@ -124,7 +124,10 @@
    touch Location-Coordinate.txt
    cat North.txt East.txt > Location-Coordinate.txt
    
-   
+   ![Screenshot from 2022-04-16 15-53-27](https://user-images.githubusercontent.com/86128166/163814474-24420b91-ada5-4a1d-9829-9a5a05f5a2cb.png)
 
-![](/home/devakrishna/Coordinates-Location/Screenshot from 2022-04-16 15-53-27.png)
-
+Write the Git terminal commands that you will use to push all these work to your GitHub repository.
+git clone https://github.com/Devakrishna-Sanil-Kumar/amfoss-tasks.git
+git add .
+git commit -m "Add existing file"
+git push -u origin
